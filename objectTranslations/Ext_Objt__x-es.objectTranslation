@@ -8,5 +8,9 @@
         <plural>true</plural>
         <value>Ext Objts</value>
     </caseValues>
+    <fields>
+        <label><!-- ext field --></label>
+        <name>ext_field__c</name>
+    </fields>
     <gender>Feminine</gender>
 </CustomObjectTranslation>
